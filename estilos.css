@@ -1,6 +1,6 @@
 body
 {
-    font-family: Courier;
+    font-family: Arial, Helvetica, sans-serif;
     color: rgb(70, 66, 65);
     text-align: left;
     margin: 0;
@@ -10,7 +10,7 @@ body
 
 .contenedor {
     border: 2px solid;
-    background-color:green;
+    background-color: yellow;
     padding: 1em;
     text-align: left;
     width: 70%;
@@ -47,13 +47,11 @@ body
 .parrafo {
    text-align: left;
    font-size: 20px;
-   color: white;
 }
 
 .parrafo2 {
    text-align: left;
    font-size: 20px;
-   color: white;
 }
 
 .post {
