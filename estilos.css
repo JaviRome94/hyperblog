@@ -10,7 +10,7 @@ body
 
 .contenedor {
     border: 2px solid;
-    background-color: yellow;
+    background-color:green;
     padding: 1em;
     text-align: left;
     width: 70%;
@@ -47,11 +47,13 @@ body
 .parrafo {
    text-align: left;
    font-size: 20px;
+   color: white;
 }
 
 .parrafo2 {
    text-align: left;
    font-size: 20px;
+   color: white;
 }
 
 .post {
