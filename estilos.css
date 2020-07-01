@@ -1,0 +1,59 @@
+body
+{
+    font-family: Courier;
+    color: rgb(70, 66, 65);
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+.contenedor {
+    border: 2px solid;
+    background-color: yellow;
+    padding: 1em;
+    text-align: left;
+    width: 70%;
+    margin: 0 auto;
+    
+}
+
+.cabecera {
+    background: rgb(255, 81, 0);
+    padding: 0.6em;
+    margin: 0;
+    color: white;
+    font-weight: bold;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.75);
+    font-size: 20px;
+
+}
+
+.cabecera .tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 16px;
+
+}
+
+.contenedor span {
+    text-align: left;
+}
+
+.contenedor h1 {
+    font-size: 20px;
+}
+
+.parrafo {
+   text-align: left;
+   font-size: 20px;
+}
+
+.parrafo2 {
+   text-align: left;
+   font-size: 20px;
+}
+
+.post {
+    padding: 1em;
+}
